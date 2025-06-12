@@ -1,0 +1,45 @@
+2025-02-24 17:33:00,369 - INFO - 开始训练过程
+2025-02-24 17:33:00,406 - INFO - 使用设备: cuda
+2025-02-24 18:18:06,639 - INFO - Epoch [1/20], Loss_D: 0.9577, Loss_G: 11.1170, L_steg: 0.8927, L_reg: 649.5980, StegAcc: 0.7864, NC_before: 0.9631, NC_after: 0.9461
+2025-02-24 18:18:35,401 - INFO - Validation Epoch [1/20], PSNR: 32.4023, SSIM: 0.9922, NC_before Attack: 0.9691, NC_after Attack: 0.9641, Steganalysis Accuracy: 0.6000
+2025-02-24 19:03:33,923 - INFO - Epoch [2/20], Loss_D: 0.5011, Loss_G: 6.7798, L_steg: 0.4328, L_reg: 683.0438, StegAcc: 0.9391, NC_before: 0.9725, NC_after: 0.9680
+2025-02-24 19:04:02,267 - INFO - Validation Epoch [2/20], PSNR: 30.8374, SSIM: 0.9843, NC_before Attack: 0.9755, NC_after Attack: 0.9673, Steganalysis Accuracy: 0.5000
+2025-02-24 19:48:58,586 - INFO - Epoch [3/20], Loss_D: 0.7242, Loss_G: 5.6351, L_steg: 0.6502, L_reg: 740.3109, StegAcc: 0.8791, NC_before: 0.9761, NC_after: 0.9736
+2025-02-24 19:49:27,084 - INFO - Validation Epoch [3/20], PSNR: 35.5951, SSIM: 0.9945, NC_before Attack: 0.9849, NC_after Attack: 0.9834, Steganalysis Accuracy: 0.5950
+2025-02-24 20:34:13,927 - INFO - Epoch [4/20], Loss_D: 1.0351, Loss_G: 4.3378, L_steg: 0.9559, L_reg: 791.6155, StegAcc: 0.8099, NC_before: 0.9811, NC_after: 0.9790
+2025-02-24 20:34:42,206 - INFO - Validation Epoch [4/20], PSNR: 40.8145, SSIM: 0.9976, NC_before Attack: 0.9806, NC_after Attack: 0.9795, Steganalysis Accuracy: 0.4850
+2025-02-24 21:19:17,447 - INFO - Epoch [5/20], Loss_D: 1.2191, Loss_G: 3.6544, L_steg: 1.1352, L_reg: 838.5535, StegAcc: 0.7537, NC_before: 0.9834, NC_after: 0.9818
+2025-02-24 21:19:45,505 - INFO - Validation Epoch [5/20], PSNR: 40.7776, SSIM: 0.9975, NC_before Attack: 0.9859, NC_after Attack: 0.9851, Steganalysis Accuracy: 0.5000
+2025-02-24 22:04:22,581 - INFO - Epoch [6/20], Loss_D: 1.2605, Loss_G: 2.9836, L_steg: 1.1743, L_reg: 861.6877, StegAcc: 0.7202, NC_before: 0.9865, NC_after: 0.9849
+2025-02-24 22:04:51,303 - INFO - Validation Epoch [6/20], PSNR: 43.0384, SSIM: 0.9981, NC_before Attack: 0.9895, NC_after Attack: 0.9888, Steganalysis Accuracy: 0.4700
+2025-02-24 22:49:20,656 - INFO - Epoch [7/20], Loss_D: 1.1809, Loss_G: 2.8763, L_steg: 1.0941, L_reg: 868.4481, StegAcc: 0.7557, NC_before: 0.9871, NC_after: 0.9857
+2025-02-24 22:49:49,460 - INFO - Validation Epoch [7/20], PSNR: 42.4768, SSIM: 0.9979, NC_before Attack: 0.9882, NC_after Attack: 0.9870, Steganalysis Accuracy: 0.5000
+2025-02-24 23:34:21,773 - INFO - Epoch [8/20], Loss_D: 1.1562, Loss_G: 2.6934, L_steg: 1.0686, L_reg: 875.8417, StegAcc: 0.7536, NC_before: 0.9877, NC_after: 0.9863
+2025-02-24 23:34:50,508 - INFO - Validation Epoch [8/20], PSNR: 44.5846, SSIM: 0.9979, NC_before Attack: 0.9901, NC_after Attack: 0.9891, Steganalysis Accuracy: 0.5000
+2025-02-25 00:19:16,441 - INFO - Epoch [9/20], Loss_D: 1.2550, Loss_G: 2.5131, L_steg: 1.1667, L_reg: 882.6808, StegAcc: 0.7154, NC_before: 0.9888, NC_after: 0.9874
+2025-02-25 00:19:45,704 - INFO - Validation Epoch [9/20], PSNR: 47.4423, SSIM: 0.9983, NC_before Attack: 0.9898, NC_after Attack: 0.9888, Steganalysis Accuracy: 0.4200
+2025-02-25 01:04:08,889 - INFO - Epoch [10/20], Loss_D: 1.2251, Loss_G: 2.4525, L_steg: 1.1364, L_reg: 886.7251, StegAcc: 0.7235, NC_before: 0.9890, NC_after: 0.9877
+2025-02-25 01:04:37,534 - INFO - Validation Epoch [10/20], PSNR: 50.5621, SSIM: 0.9987, NC_before Attack: 0.9900, NC_after Attack: 0.9891, Steganalysis Accuracy: 0.5000
+2025-02-25 01:49:00,054 - INFO - Epoch [11/20], Loss_D: 1.0278, Loss_G: 2.3023, L_steg: 0.9390, L_reg: 888.7168, StegAcc: 0.7916, NC_before: 0.9903, NC_after: 0.9890
+2025-02-25 01:49:29,114 - INFO - Validation Epoch [11/20], PSNR: 49.6491, SSIM: 0.9985, NC_before Attack: 0.9891, NC_after Attack: 0.9876, Steganalysis Accuracy: 0.5000
+2025-02-25 02:33:54,385 - INFO - Epoch [12/20], Loss_D: 0.9484, Loss_G: 2.3248, L_steg: 0.8596, L_reg: 887.8804, StegAcc: 0.8050, NC_before: 0.9901, NC_after: 0.9888
+2025-02-25 02:34:22,765 - INFO - Validation Epoch [12/20], PSNR: 49.1064, SSIM: 0.9985, NC_before Attack: 0.9899, NC_after Attack: 0.9888, Steganalysis Accuracy: 0.4250
+2025-02-25 03:18:44,862 - INFO - Epoch [13/20], Loss_D: 0.8538, Loss_G: 2.3098, L_steg: 0.7651, L_reg: 886.5930, StegAcc: 0.8364, NC_before: 0.9901, NC_after: 0.9887
+2025-02-25 03:19:13,387 - INFO - Validation Epoch [13/20], PSNR: 49.5897, SSIM: 0.9987, NC_before Attack: 0.9930, NC_after Attack: 0.9922, Steganalysis Accuracy: 0.5000
+2025-02-25 04:03:38,329 - INFO - Epoch [14/20], Loss_D: 0.8088, Loss_G: 2.3249, L_steg: 0.7202, L_reg: 885.2319, StegAcc: 0.8407, NC_before: 0.9900, NC_after: 0.9887
+2025-02-25 04:04:06,810 - INFO - Validation Epoch [14/20], PSNR: 50.0388, SSIM: 0.9985, NC_before Attack: 0.9912, NC_after Attack: 0.9900, Steganalysis Accuracy: 0.5000
+2025-02-25 04:48:38,799 - INFO - Epoch [15/20], Loss_D: 0.8878, Loss_G: 2.2286, L_steg: 0.7993, L_reg: 884.5426, StegAcc: 0.8257, NC_before: 0.9904, NC_after: 0.9891
+2025-02-25 04:49:07,611 - INFO - Validation Epoch [15/20], PSNR: 52.0191, SSIM: 0.9984, NC_before Attack: 0.9900, NC_after Attack: 0.9886, Steganalysis Accuracy: 0.5000
+2025-02-25 04:49:07,614 - INFO - 提示: 模型在最近5个epoch中欠拟合。考虑增加模型复杂度、减少正则化或增加训练时间。
+2025-02-25 05:33:31,735 - INFO - Epoch [16/20], Loss_D: 0.7795, Loss_G: 2.1519, L_steg: 0.6911, L_reg: 883.5934, StegAcc: 0.8398, NC_before: 0.9910, NC_after: 0.9898
+2025-02-25 05:34:00,640 - INFO - Validation Epoch [16/20], PSNR: 50.1397, SSIM: 0.9986, NC_before Attack: 0.9878, NC_after Attack: 0.9864, Steganalysis Accuracy: 0.5000
+2025-02-25 06:18:28,581 - INFO - Epoch [17/20], Loss_D: 0.7227, Loss_G: 2.1503, L_steg: 0.6345, L_reg: 881.9823, StegAcc: 0.8602, NC_before: 0.9910, NC_after: 0.9897
+2025-02-25 06:18:58,012 - INFO - Validation Epoch [17/20], PSNR: 48.9636, SSIM: 0.9986, NC_before Attack: 0.9876, NC_after Attack: 0.9861, Steganalysis Accuracy: 0.5000
+2025-02-25 07:03:20,471 - INFO - Epoch [18/20], Loss_D: 0.7294, Loss_G: 2.1263, L_steg: 0.6413, L_reg: 880.6438, StegAcc: 0.8595, NC_before: 0.9912, NC_after: 0.9900
+2025-02-25 07:03:49,519 - INFO - Validation Epoch [18/20], PSNR: 51.5736, SSIM: 0.9988, NC_before Attack: 0.9934, NC_after Attack: 0.9924, Steganalysis Accuracy: 0.3900
+2025-02-25 07:48:11,879 - INFO - Epoch [19/20], Loss_D: 0.6253, Loss_G: 2.1518, L_steg: 0.5373, L_reg: 879.5431, StegAcc: 0.8789, NC_before: 0.9913, NC_after: 0.9901
+2025-02-25 07:48:40,243 - INFO - Validation Epoch [19/20], PSNR: 51.5539, SSIM: 0.9987, NC_before Attack: 0.9930, NC_after Attack: 0.9918, Steganalysis Accuracy: 0.5000
+2025-02-25 08:33:07,699 - INFO - Epoch [20/20], Loss_D: 0.4889, Loss_G: 2.2080, L_steg: 0.4010, L_reg: 878.5596, StegAcc: 0.9166, NC_before: 0.9912, NC_after: 0.9900
+2025-02-25 08:33:35,808 - INFO - Validation Epoch [20/20], PSNR: 54.4491, SSIM: 0.9988, NC_before Attack: 0.9936, NC_after Attack: 0.9928, Steganalysis Accuracy: 0.5000
+2025-02-25 08:33:35,811 - INFO - 提示: 模型在最近5个epoch中欠拟合。考虑增加模型复杂度、减少正则化或增加训练时间。
+2025-02-25 08:33:36,818 - INFO - 训练完成
